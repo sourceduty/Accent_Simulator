@@ -57,6 +57,10 @@ The Accent Simulator operates interactively by guiding users through a step-by-s
 ![Bada Bing](https://github.com/user-attachments/assets/9dc9da5d-4195-4415-947e-9ed26982c491)
 
 #
+
+> Alex: "*"Aight, I’m gonna step out, grab a hot dog from the cart, take a walk around the block, and then I’m headin' back to my ma’s to crash.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)

@@ -62,6 +62,8 @@ The Accent Simulator operates interactively by guiding users through a step-by-s
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [English Orthoepy](https://github.com/sourceduty/English_Orthoepy)
+<br>
+[Onomatopoeia](https://chatgpt.com/g/g-JEHdIpJiN-onomatopoeia)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -71,7 +71,7 @@ Actors often face the challenge of balancing the technical demands of mastering 
 
 > "*British people are annoying but I could do a British accent as well.*"
 
-> Alex: "*I like to act and speak like a New Yorker.*"
+> "*I like to act and speak like a New Yorker.*"
 
 #
 ### Related Links

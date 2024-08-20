@@ -58,7 +58,7 @@ The Accent Simulator operates interactively by guiding users through a step-by-s
 
 #
 
-> Alex: "*"Aight, I’m gonna step out, grab a hot dog from the cart, take a walk around the block, and then I’m headin' back to my ma’s to crash.*"
+> Alex: "*Aight, I’m gonna step out, grab a hot dog from the cart, take a walk around the block, and then I’m headin' back to my ma’s to crash.*"
 
 #
 ### Related Links

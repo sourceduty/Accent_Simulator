@@ -70,6 +70,8 @@ The Accent Simulator operates interactively by guiding users through a step-by-s
 [English Orthoepy](https://github.com/sourceduty/English_Orthoepy)
 <br>
 [Onomatopoeia](https://chatgpt.com/g/g-JEHdIpJiN-onomatopoeia)
+<br>
+[Communication](https://github.com/sourceduty/Communication)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

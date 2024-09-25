@@ -60,18 +60,6 @@ Actors often face the challenge of balancing the technical demands of mastering 
 8. Caribbean Accents:
    - Jamaican Patois: A Creole language that blends English with West African influences.
    - Trinidadian English: A mix of British English with Caribbean influences.
-  
-#
-
-![Bada Bing](https://github.com/user-attachments/assets/9dc9da5d-4195-4415-947e-9ed26982c491)
-
-#
-
-> Alex: "*Aight, I’m gonna step out, grab a hot dog from the cart, take a walk around the block, and then I’m headin' back to my ma’s to crash.*"
-
-> "*British people are annoying but I could do a British accent as well.*"
-
-> "*I like to act and speak like a New Yorker.*"
 
 #
 ### Related Links
@@ -83,6 +71,8 @@ Actors often face the challenge of balancing the technical demands of mastering 
 [Onomatopoeia](https://chatgpt.com/g/g-JEHdIpJiN-onomatopoeia)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
+<br>
+[Language School](https://github.com/sourceduty/Language_School)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

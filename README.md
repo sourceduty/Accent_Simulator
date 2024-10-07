@@ -1,4 +1,4 @@
-![Accents](https://github.com/user-attachments/assets/a60e4c96-cc0c-4b75-a377-17432685db6c)
+![Acting](https://github.com/user-attachments/assets/0aa346f1-d183-4abe-8da0-ad061c80a86d)
 
 > Simulate accents in any location and language.
 
@@ -60,6 +60,10 @@ Actors often face the challenge of balancing the technical demands of mastering 
 8. Caribbean Accents:
    - Jamaican Patois: A Creole language that blends English with West African influences.
    - Trinidadian English: A mix of British English with Caribbean influences.
+
+#
+
+![Accents](https://github.com/user-attachments/assets/a60e4c96-cc0c-4b75-a377-17432685db6c)
 
 #
 ### Related Links

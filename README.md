@@ -77,6 +77,8 @@ Actors often face the challenge of balancing the technical demands of mastering 
 [Communication](https://github.com/sourceduty/Communication)
 <br>
 [Language School](https://github.com/sourceduty/Language_School)
+<br>
+[New Language](https://github.com/sourceduty/New_Language)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

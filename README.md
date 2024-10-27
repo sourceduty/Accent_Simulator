@@ -62,7 +62,59 @@ Actors often face the challenge of balancing the technical demands of mastering 
    - Trinidadian English: A mix of British English with Caribbean influences.
 
 #
+### Accent Similarity
 
+| Accent                        | Country/Region         | Origin Location                                           | Similar Accents                                 | Dissimilar Accents                             |
+|-----------------------------|------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| General American            | United States          | Nationwide (Midwest, West Coast, neutral accent)         | Midland American, Canadian (General)           | New York City, Southern American               |
+| Inland Northern             | United States          | Great Lakes region (Michigan, Wisconsin, Illinois)       | Upper Midwest/North-Central (Minnesotan)       | Southern American, Cajun                       |
+| Southern American           | United States          | Southern states (Texas, Georgia, Alabama, Louisiana)     | Texan, Appalachian                              | New England, Inland Northern                   |
+| New England                 | United States          | Northeastern states (Massachusetts, Maine)               | Boston Brahmin                                  | Southern American, Pacific Northwest           |
+| New York City               | United States          | New York City and surrounding areas                      | Mid-Atlantic                                    | General American, Canadian (General)           |
+| Mid-Atlantic                | United States          | Philadelphia, Baltimore, parts of Delaware               | New York City                                   | Southern American, Texan                       |
+| California                  | United States          | California (especially Southern California)              | Valley Girl, Pacific Northwest                  | Southern American, New England                 |
+| Valley Girl                 | United States          | Southern California                                       | California                                      | New York City, Inland Northern                 |
+| Pacific Northwest           | United States          | Oregon, Washington, parts of Northern California         | California, Canadian (Pacific)                  | Southern American, Boston Brahmin              |
+| Cajun                       | United States          | Louisiana (French influence)                              | Southern American                               | General American, Mid-Atlantic                 |
+| Appalachian                 | United States          | Appalachian Mountains (Kentucky, Tennessee, West Virginia)| Southern American                               | New England, California                        |
+| Western                     | United States          | Western states (Colorado, Wyoming, Montana)              | General American                                | New York City, Cajun                           |
+| Canadian (General)          | Canada                 | Nationwide (neutral Canadian English)                     | General American, Pacific Northwest             | Southern American, New York City               |
+| Maritime                    | Canada                 | Eastern provinces (Nova Scotia, Newfoundland, Prince Edward Island) | Newfoundland, Acadian English                  | Californian, African American Vernacular English (AAVE) |
+| Newfoundland                | Canada                 | Newfoundland (distinct accent from the Maritimes)        | Maritime                                        | General American, Valley Girl                  |
+| Quebec English              | Canada                 | Quebec (English-speaking communities within Quebec)       | Acadian English, Maritime                       | New York City, Southern American               |
+| Prairie Canadian            | Canada                 | Alberta, Saskatchewan, Manitoba                           | General American, Canadian (General)            | Cajun, New England                             |
+| Toronto English             | Canada                 | Greater Toronto Area                                      | General American, Ottawa Valley                 | New Orleans (Yat), Gullah/Geechee              |
+| Ottawa Valley               | Canada                 | Ottawa Valley, Ontario (rural areas)                      | Toronto English                                 | Southern American, New York City               |
+| Pacific Canadian            | Canada                 | British Columbia (especially Vancouver)                   | Pacific Northwest, California                   | Southern American, Appalachian                 |
+| Native American English     | United States/Canada   | Various Indigenous communities in North America           | General American                                | New York City, Boston Brahmin                  |
+| African American Vernacular English (AAVE) | United States | Predominantly African American communities nationwide      | Southern American, Gullah/Geechee               | General American, New England                  |
+| Chicano English             | United States          | Southwestern states (California, Texas)                   | California, Valley Girl                         | New York City, Boston Brahmin                  |
+| Upper Midwest/North-Central (Minnesotan) | United States | Minnesota, North Dakota, parts of Wisconsin               | Inland Northern, Yooper                         | Southern American, New Orleans (Yat)          |
+| Midland American            | United States          | Parts of Ohio, Indiana, Illinois, and Missouri            | General American, Inland Northern               | Boston Brahmin, New York City                  |
+| Boston Brahmin              | United States          | Boston (associated with the old-money class)              | New England, New York City                      | Southern American, Western Pennsylvania        |
+| Yooper                      | United States          | Michigan's Upper Peninsula                                | Upper Midwest/North-Central (Minnesotan)        | Southern American, Cajun                       |
+| Texan                       | United States          | Texas (distinct variation of the Southern accent)         | Southern American, Chicano English              | New York City, General American                |
+| Hispano English             | United States          | Northern New Mexico and Southern Colorado                 | Chicano English, Texan                          | Boston Brahmin, New York City                  |
+| Gullah/Geechee              | United States          | Coastal regions of South Carolina and Georgia             | African American Vernacular English (AAVE)      | General American, New England                  |
+| Ozark                       | United States          | Ozark Mountains (Arkansas, Missouri)                      | Southern American, Appalachian                  | General American, Valley Girl                  |
+| Western Pennsylvania (Pittsburghese) | United States | Pittsburgh, Pennsylvania                                  | Mid-Atlantic, Inland Northern                   | General American, Southern American            |
+| Hawaiian Pidgin             | United States          | Hawaii (creole language with multiple influences)         | Chicano English                                 | New England, Boston Brahmin                    |
+| Acadian English             | Canada                 | Acadian regions of Maritime provinces (e.g., New Brunswick)| Maritime, Quebec English                        | California, Southern American                  |
+| Labradorian English         | Canada                 | Labrador                                                  | Newfoundland                                    | Valley Girl, New York City                     |
+| Cape Breton English         | Canada                 | Cape Breton, Nova Scotia                                  | Maritime                                        | General American, Valley Girl                  |
+| New Orleans (Yat)           | United States          | New Orleans (influenced by Irish, Italian communities)    | New York City, Cajun                            | General American, Pacific Northwest            |
+| Tidewater/Virginia Piedmont | United States          | Eastern Virginia                                          | Southern American                               | New York City, Pacific Northwest               |
+| Filipino English            | United States/Canada   | Areas with large Filipino communities (California, Ontario)| Valley Girl, Chicano English                    | Boston Brahmin, Cajun                          |
+| Italian American English    | United States          | New York, New Jersey, and other large Italian communities | New York City, New Orleans (Yat)                | General American, Western Pennsylvania         |
+| Irish American English      | United States          | Boston, New York, Philadelphia (areas with Irish heritage)| New York City, Boston Brahmin                   | Southern American, Western                     |
+| Greek American English      | United States          | Chicago, New York, and other Greek-populated regions      | New York City, Mid-Atlantic                     | Valley Girl, Southern American                 |
+| Russian American English    | United States          | New York (Brighton Beach) and other Russian communities   | New York City                                   | Valley Girl, Southern American                 |
+| Chinese American English    | United States/Canada   | Chinatowns and Chinese communities in major cities        | California, New York City                       | Cajun, Appalachian                             |
+| Indian English              | United States/Canada   | Areas with large Indian populations (Silicon Valley, Toronto)| General American, California                   | Boston Brahmin, New Orleans (Yat)             |
+| Korean American English     | United States/Canada   | Los Angeles (Koreatown) and other Korean communities      | California, Valley Girl                         | Southern American, New England                 |
+| Vietnamese American English | United States          | California (Orange County) and other Vietnamese communities| Valley Girl, Chicano English                    | New York City, Boston Brahmin                  |
+
+#
 ![Accents](https://github.com/user-attachments/assets/a60e4c96-cc0c-4b75-a377-17432685db6c)
 
 #

@@ -62,7 +62,7 @@ Actors often face the challenge of balancing the technical demands of mastering 
    - Trinidadian English: A mix of British English with Caribbean influences.
 
 #
-### Accent Similarity
+### North American Accent Similarity
 
 | Accent                        | Country/Region         | Origin Location                                           | Similar Accents                                 | Dissimilar Accents                             |
 |-----------------------------|------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------|
